@@ -1,7 +1,7 @@
 #Bike With Friends! [@BikeWithFriends](http://twitter.com/bikewithfriends)
 Gamify CitiBike
 
-The repository has moved! Please visit [bikewithfriends.com](http://bikewithfriends.com) for details about the app launch!
+###*The repository has moved! Please visit [bikewithfriends.com](http://bikewithfriends.com) for details about the app launch!*
 
 ![BikeWithFriends](http://ningbit.github.io/images/bwf-stats.png)
 
