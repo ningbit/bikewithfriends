@@ -1,9 +1,9 @@
 #Bike With Friends! [@BikeWithFriends](http://twitter.com/bikewithfriends)
 Gamify CitiBike
 
-###*This repository has been moved! Please visit [bikewithfriends.com](http://bikewithfriends.com) for details about the app launch!* -[Team BWF](mailto: team@bikewithfriends.com)
+###*This repository has been moved! Please visit [bikewithfriendsdemo.herokuapp.com](http://bikewithfriendsdemo.herokuapp.com) for a demo of the app!* -[Team BWF](mailto: team@bikewithfriends.com)
 
-![BikeWithFriends](http://ningbit.github.io/images/bwf-stats.png)
+![BikeWithFriends](http://ningbit.github.io/images/2013/bwf-stats.png)
 
 #### Team Members:
 - Ning Yap - [@ningbit](http://twitter.com/ningbit)
@@ -40,7 +40,7 @@ BikeWithFriends employs Ruby on Rails, the mechanize gem, CitiBike member trip d
 
 ## Screenshots
 
-![BikeWithFriends](http://ningbit.github.io/images/bwf-maps.png)
+![BikeWithFriends](http://ningbit.github.io/images/2013/bwf-maps.png)
 
 ## Events
 
